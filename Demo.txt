@@ -1,0 +1,2 @@
+Hello !!
+My interaction with Git [for the first time ; )]
